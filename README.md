@@ -146,7 +146,7 @@ The deployed tracker provides a management-level view of collections, expenses, 
 Google Sheets acts as the operational source of truth for collection and expense records.
 
 ### Synchronization & Validation
-![Sync Validation](screenshots/03-sync-validation.png)
+![Sync Validation](screenshots/Sync-validation.png)
 
 Google Apps Script controls synchronization, validation, change detection and deletion protection.
 
