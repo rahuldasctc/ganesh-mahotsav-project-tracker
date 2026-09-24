@@ -136,12 +136,12 @@ This demonstrated an important principle: **financial synchronization should be 
 ## Screenshots
 
 ### Live Tracker
-![Live Tracker](screenshots/01-live-tracker.png)
+![Live Tracker](screenshots/Live-Tracker.png)
 
 The deployed tracker provides a management-level view of collections, expenses, balance, entry counts and financial flow.
 
 ### Source Data
-![Source Data](screenshots/02-source-data.png)
+![Source Data](screenshots/Source-data.png)
 
 Google Sheets acts as the operational source of truth for collection and expense records.
 
